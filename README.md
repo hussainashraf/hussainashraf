@@ -1,4 +1,4 @@
-<h2 align="center"><a href="#"><img  src="[https://1.bp.blogspot.com/-G49lMOmWNsA/YUEbL4k4bNI/AAAAAAAAQ8s/UL-yNn83PZ4C6HAQUYoLq32I5mw1gMixgCLcBGAsYHQ/s0/WhatIsAppExcellence_Blog2-01%2B%25281%2529.png](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)" height="490px" width="900px"></a></h2>
+<h2 align="center"><a href="#"><img  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="490px" width="900px"></a></h2>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hussain</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
