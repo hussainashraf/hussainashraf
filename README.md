@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Learning on <b>[Android Development]</b>
+- 🔭 I’m currently Learning on <b>[FullStack Development + DevOps]</b>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
