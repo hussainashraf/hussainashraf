@@ -1,4 +1,4 @@
-<h2 align="center"><a href="#"><img  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="200px" width="px"></a></h2>
+<h2 align="center"><a href="#"><img  src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="200px" width="300px"></a></h2>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hussain</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
